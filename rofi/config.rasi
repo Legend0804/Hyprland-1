@@ -1,0 +1,7 @@
+configuration {
+    drun-display-format: "{icon} {name}";
+    font: "Iosevka Nerd Font Propo 12";
+    show-icons: true;
+}
+
+@theme 'theme.rasi'
