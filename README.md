@@ -1,4 +1,4 @@
-![2025-06-26-230152_hyprshot](https://github.com/user-attachments/assets/2e30c26d-f2b0-4da0-8fe3-b70a9581946e)# MY FIRST EVER HYPRLAND RICE
+# MY FIRST EVER HYPRLAND RICE
 This setup was possible by taking help form lot of repos and guides. So I'd try to help as much as I can via my repo!
 
 **I am using pywal-16 for managing colors**
