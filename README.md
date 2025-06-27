@@ -38,10 +38,11 @@ I customized my vscodium via this tutorial (https://youtu.be/VmFOsK7IhI4) (most 
 ![2025-06-26-230207_hyprshot](https://github.com/user-attachments/assets/1aad45fb-ee82-4ed3-86ca-1b73b676b1b9)
 
 I have taken the congifs from [Adi1090x](https://github.com/adi1090x/rofi#)
-Also I have added these two windowrules in my hyprland.conf for dimming background when opening rofi and popup animation :
-layerrule= dimaround, rofi
-layerrule= animation popin 10%, rofi
+Also I have added these two windowrules in my hyprland.conf for dimming background when opening rofi and popup animation :  
+layerrule= dimaround, rofi  
+layerrule= animation popin 10%, rofi  
 
 ---
-
-
+## Hyprlock
+![2025-06-26-231504_hyprshot](https://github.com/user-attachments/assets/11a0b4c4-e6fd-4fee-b357-7fb69f761fc1)  
+I took my hyprlock from [HyprNova](https://github.com/zDyanTB/HyprNova) and added media player from [Hyprclouds](https://github.com/arfan-on-clouds/hyprclouds). You can find my config in dots.
