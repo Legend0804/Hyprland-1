@@ -10,3 +10,4 @@ My Waybar has following modules
    Blueberry for bluetooth management (you can get it via yay -S blueberry)
    And nmtui script to manager my wifi
 4. I am using Swaync as my notification manager. You can find the config I am using [here](https://github.com/elifouts/Dotfiles)
+---
