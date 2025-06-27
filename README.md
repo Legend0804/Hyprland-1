@@ -21,9 +21,10 @@ I am using :
 2. Neofetch (yeah it is a dead archive, but I have been using it on my windows so I am used to it and don't fix what's not broken right?)
 3. [Oh-my-posh](https://ohmyposh.dev/). Another programme I've been using on my windows.
 ---
-## Discord and Spotify
+## Discord and Spotify  
+
 ![2025-06-26-225952_hyprshot](https://github.com/user-attachments/assets/7178396b-4c9e-442c-bff5-44486e09161f)
 I am using vesktop (yay -S vesktop-bin) with [walcord](https://github.com/Danrus1100/walcord) and [midnight](https://github.com/refact0r/midnight-discord?tab=readme-ov-file) theme. If you want mode description on it, feel free to open a issue and I'll help.
-I am using spotify with spicetify and [pywal spicetify](https://github.com/jhideki/pywal-spicetify), again you can open issue if you need any help for it
+I am using spotify with spicetify and [pywal spicetify](https://github.com/jhideki/pywal-spicetify), again you can open issue if you need any help for it  
 ---
 
