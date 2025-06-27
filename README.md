@@ -27,4 +27,11 @@ I am using vesktop (yay -S vesktop-bin) with [walcord](https://github.com/Danrus
 I am using spotify with spicetify and [pywal spicetify](https://github.com/jhideki/pywal-spicetify), again you can open issue if you need any help for it
 
 ---
+## Telegram and Vscodium
+![2025-06-26-230142_hyprshot](https://github.com/user-attachments/assets/129675f2-c436-422d-8610-915bad7489d8)
+I am using telegram with [walogram](https://codeberg.org/thirtysix/walogram) and Vscodium.
+I customized my vscodium via this tutorial (https://youtu.be/VmFOsK7IhI4) (most part not everything). Also I am using Pywal extension.
+
+---
+
 
