@@ -45,4 +45,4 @@ layerrule= animation popin 10%, rofi
 ---
 ## Hyprlock
 ![2025-06-26-231504_hyprshot](https://github.com/user-attachments/assets/11a0b4c4-e6fd-4fee-b357-7fb69f761fc1)  
-I took my hyprlock from [HyprNova](https://github.com/zDyanTB/HyprNova) and added media player from [Hyprclouds](https://github.com/arfan-on-clouds/hyprclouds). You can find my config in dots.
+I took my hyprlock from [HyprNova](https://github.com/zDyanTB/HyprNova) and added media player from [Hyprclouds](https://github.com/arfan-on-clouds/hyprclouds). You can use my config in the dots directly.
