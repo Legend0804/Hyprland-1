@@ -14,7 +14,7 @@ My Waybar has following modules
 ## Terminal
 ![2025-06-26-225744_hyprshot](https://github.com/user-attachments/assets/42bf3a50-3e8b-47db-8150-efd76519cced)
 I am using :
-1. (TTY-Clock)[https://github.com/xorg62/tty-clock]. You can get it via yay -S tty-clock
+1. [TTY-Clock](https://github.com/xorg62/tty-clock). You can get it via yay -S tty-clock
 2. Neofetch (yeah it is a dead archive, but I have been using it on my windows so I am used to it and don't fix what's not broken right?)
-3.  (Oh-my-posh)[https://ohmyposh.dev/]. Another programme I've been using on my windows.
+3. [Oh-my-posh](https://ohmyposh.dev/). Another programme I've been using on my windows.
 ---
