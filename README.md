@@ -1,4 +1,4 @@
-# MY FIRST EVER HYPRLAND RICE
+![2025-06-26-230152_hyprshot](https://github.com/user-attachments/assets/2e30c26d-f2b0-4da0-8fe3-b70a9581946e)# MY FIRST EVER HYPRLAND RICE
 This setup was possible by taking help form lot of repos and guides. So I'd try to help as much as I can via my repo!
 
 **I am using pywal-16 for managing colors**
@@ -31,6 +31,16 @@ I am using spotify with spicetify and [pywal spicetify](https://github.com/jhide
 ![2025-06-26-230142_hyprshot](https://github.com/user-attachments/assets/129675f2-c436-422d-8610-915bad7489d8)
 I am using telegram with [walogram](https://codeberg.org/thirtysix/walogram) and Vscodium.
 I customized my vscodium via this tutorial (https://youtu.be/VmFOsK7IhI4) (most part not everything). Also I am using Pywal extension.
+
+---
+## Rofi
+![2025-06-26-230152_hyprshot](https://github.com/user-attachments/assets/ad90ed33-f848-4243-b366-85b53e5af126)
+![2025-06-26-230207_hyprshot](https://github.com/user-attachments/assets/1aad45fb-ee82-4ed3-86ca-1b73b676b1b9)
+
+I have taken the congifs from [Adi1090x](https://github.com/adi1090x/rofi#)
+Also I have added these two windowrules in my hyprland.conf for dimming background when opening rofi and popup animation :
+layerrule= dimaround, rofi
+layerrule= animation popin 10%, rofi
 
 ---
 
